@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^13.3.1",
+    "embed": "^0.0.1",
+    "enmap": "^5.8.7",
+    "enp": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "name": "ticket",
+  "version": "1.1",
+  "description": "Bot de ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Erro não especificado\" && exit 1",
+    "start": "node index.js"
+  }
+}
