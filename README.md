@@ -1,11 +1,15 @@
-Olá este é o meu primeiro desenvolvimento de um BOT para Discord.
+<h1> SOBRE O PROJETO </h1>
+<p>Este é um projeto no qual foi desenvolvido um bot para rodar no DISCORD.</p>
 
-Neste bot eu coloquei comandos como: help, ping, ticket.
+<p>Foi desenvolvido com o objetivo principal de ajudar a retirar dúvidas de pessoas.</p>
 
-Usei o JavaScript (JS) para desenvolve-lo.
+<p>Neste bot eu coloquei comandos como: help, ping, ticket.</p>
+
+<p>Usei o JavaScript (JS) para desenvolve-lo.<p>
 
 V: 1.3
-
+<h1>TECNOLOGIAS UTILIZADAS</h1>
+<p>Foi utilizado
 dependencias:
 
 canvas
@@ -14,5 +18,7 @@ embed
 enmap
 enp
 path
+moongoose
 
-Bot desenvolvido para ampliar o meu conhecimento em JavaScript, uma linguagem tão importante e requisitada no mercado.
+
+<h1> OBJETIVO PESSOAL </h1>
