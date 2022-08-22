@@ -9,16 +9,16 @@
 
 V: 1.3
 <h1>TECNOLOGIAS UTILIZADAS</h1>
-<p>Foi utilizado
-dependencias:
 
-canvas
-discord.js
-embed
-enmap
-enp
-path
-moongoose
+<h3>dependencias:<h3>
+
+<p>• canvas</p>
+<p>• discord.js</p>
+<p>• embed</p>
+<p>• enmap</p>
+<p>• enp</p>
+<p>• path</p>
+<p>• moongoose</p>
 
 
-<h1> OBJETIVO PESSOAL </h1>
+
